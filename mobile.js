@@ -4,4 +4,5 @@
     style.type = 'text/css';
     style.src = "https://raw.githubusercontent.com/alihelpervi/webview/master/mobile.css";
     parent.appendChild(style);
+    console.log(111);
 })();
